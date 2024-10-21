@@ -9,10 +9,10 @@
 
 ## Technologies I'm experienced in
 - Front-end: HTML, CSS, JavaScript, React, Bootstrap
-- Back-end: Node, Express, PostgreSQL, MongoDB, JWT
+- Back-end: Node, Express, PostgreSQL, MongoDB, JWT, SQL
 - Testing: Jest, Supertest
 - Tooling: Webpack and Vite
-- DevOps: Visual Studio Code, Git, GitHub, NPM
+- Visual Studio Code, Git, GitHub, NPM
 - OS: Linux (Ubuntu), Windows
 - Others: basic Python
 
@@ -20,6 +20,10 @@
 - Development of RESTful APIs in Express, integrating with front-end applications in React
 - Attention to code best practices such as DRY, YAGNI and SOLID principles, focusing on writing clean and efficient code
 - Test-driven development using Jest and Supertest (in both front and back-end apps)
+- CRUD operations and management of both relational and semi-structured databases
+- Authentication and authorization using JWTs and user sessions
+- Concepts in information security such as password hashing in bcrypt and validation/sanitization of inputs in express validator
+- Model-View-Controller architecture
 - Responsive web design
 
 ## Contact
