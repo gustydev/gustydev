@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=gustydev&color=006bed)
 
+## [Ver em Português](README.pt.md)
+
 ## About Me
 
 - 👨‍💻 Programmer and full-stack developer from Brazil, focusing on web development
