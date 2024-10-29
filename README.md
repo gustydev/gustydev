@@ -24,7 +24,7 @@
 - Test-driven development using Jest and Supertest (in both front and back-end apps)
 - CRUD operations and management of both relational and semi-structured databases
 - Authentication and authorization using JWTs and user sessions
-- Concepts in information security such as password hashing in bcrypt and validation/sanitization of inputs in express validator
+- Concepts in information security such as password hashing in bcrypt, validation/sanitization of inputs in express validator and usage of environment variables to safeguard vital info on projects
 - Model-View-Controller architecture
 - Responsive web design
 
