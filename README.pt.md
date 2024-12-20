@@ -1,6 +1,6 @@
-## Sobre Mim
+## Quem sou eu?
 
-- 👨‍💻 Programador e desenvolvedor full-stack de Fortaleza, Ceará, focado em desenvolvimento web
+- 👨‍💻 Programador e desenvolvedor full-stack de Fortaleza, Ceará, focado em desenvolvimento web mas sempre buscando expandir meus horizontes
 - 🎓 Graduado em Economia pela Universidade Federal do Ceará (2018-2023). Atualmente cursando Análise e Desenvolvimento de Sistemas para desenvolver minhas habilidades como programador (desde 2023).
 - 💼 Buscando oportunidades de trabalho em desenvolvimento ou programação em geral
 - 🛠️ Frequentemente trabalhando em projetos para praticar e aplicar meus conhecimentos como desenvolvedor, além de estudar (tanto na universidade quanto de forma autônoma)
@@ -10,7 +10,7 @@
 - Back-end: Node, Express, PostgreSQL, MongoDB, JWT, SQL
 - Testes: Jest, Supertest
 - Ferramentas: Webpack e Vite
-- Visual Studio Code, Git, GitHub, NPM
+- Visual Studio Code, Git, GitHub, NPM, AWS (EC2/VPC)
 - SO: Linux (Ubuntu), Windows
 - Outros: Python básico
 
@@ -22,7 +22,9 @@
 - Autenticação e autorização usando JWTs e sessões de usuário
 - Conceitos de segurança da informação, como hashing de senhas com bcrypt e validação/sanitização de entradas com express-validator
 - Arquitetura Model-View-Controller (MVC)
-- Design responsivo para web
+- Design responsivo e mobile-friendly para web
+- Experiência fazendo deploy de projetos em serviços de nuvem como AWS (EC2, VPC), assim como PaaS
+- Noções básicas de metodologias ágeis (Scrum, Kanban), assim como trabalho cooperativo em Git
 
 ## Contato
 - gustavodiorlando@gmail.com
