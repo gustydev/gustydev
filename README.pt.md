@@ -27,5 +27,5 @@
 - Noções básicas de metodologias ágeis (Scrum, Kanban), assim como trabalho cooperativo em Git
 
 ## Contato
-- gustydev@proton.me
+- gustavodiorlando@gmail.com
 - https://linkedin.com/in/gustavodmoreira
