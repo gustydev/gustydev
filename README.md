@@ -31,5 +31,5 @@
 - Basic notions of agile methodologies (Scrum, Kanban) as well as cooperative work in Git
 
 ## Contact
-- gustydev@proton.me
+- gustavodiorlando@gmail.com
 - https://linkedin.com/in/gustavodmoreira
